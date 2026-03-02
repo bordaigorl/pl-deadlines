@@ -2,11 +2,10 @@ title: PL Conference Deadlines
 description: Countdowns to top PL venue deadlines
 author: Yichen Xu
 
-domain: "www.pl-deadlines.info"
-baseurl: ""
+domain: "www.emanueledosualdo.com"
+baseurl: "/pl-deadlines"
 
-twitter_hashtag: machinelearning
-github_username: linyxus
+github_username: bordaigorl
 github_repo: pl-deadlines
 
 markdown: kramdown
